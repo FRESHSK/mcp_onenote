@@ -1,0 +1,17 @@
+{
+  "name": "mcp-onenote",
+  "version": "1.0.0",
+  "description": "MCP server for Microsoft OneNote",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "@azure/msal-node": "^2.16.2",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}

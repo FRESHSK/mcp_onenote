@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "onenote": {
+            "command": "node",
+            "args": [
+                "c:/Users/abenk/Projects/mcp_onenote_01/server.js"
+            ]
+        }
+    }
+}
